@@ -54,6 +54,4 @@ flappy-bird-game/
 ├── README.md
 └── requirements.txt
 
-
-    Inspired by the original Flappy Bird game.
-    Thanks to the Pygame community for their excellent resources and tutorials.
+Screenshots
