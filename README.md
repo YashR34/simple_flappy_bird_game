@@ -56,3 +56,5 @@ flappy-bird-game/
 
 Screenshots
 ![Screenshot (2)](https://github.com/user-attachments/assets/2858ce13-6556-4dd1-ae0c-30aaea3fefcf)
+
+![Screenshot (3)](https://github.com/user-attachments/assets/48f00435-6e37-4b60-9839-d02a40e61351)
