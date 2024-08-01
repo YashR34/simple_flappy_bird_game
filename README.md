@@ -16,7 +16,7 @@ To run this game on your local machine, follow these steps:
 
     sh
 
-git clone https://github.com/yourusername/flappy-bird-game.git
+git clone https://github.com/YashR34/simple_flappy_bird_game.git
 cd flappy-bird-game
 
 Install the required libraries:
@@ -50,17 +50,10 @@ flappy-bird-game/
 │   ├── pipe.png
 │   ├── background.png
 │   └── ...
-├── flappy_bird.py
+├── main.py
 ├── README.md
 └── requirements.txt
 
-Contributing
-
-If you have any suggestions or improvements, feel free to create an issue or submit a pull request. Contributions are welcome!
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-Acknowledgments
 
     Inspired by the original Flappy Bird game.
     Thanks to the Pygame community for their excellent resources and tutorials.
