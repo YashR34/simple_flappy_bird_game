@@ -55,3 +55,4 @@ flappy-bird-game/
 └── requirements.txt
 
 Screenshots
+![Screenshot (2)](https://github.com/user-attachments/assets/2858ce13-6556-4dd1-ae0c-30aaea3fefcf)
